@@ -97,11 +97,13 @@
             <Button Text="Cancelar"
                     WidthRequest="100"
                     BackgroundColor="LightGray"
-                    Clicked="ClosePopup"/>
+                    Clicked="ClosePopup"
+                    TextColor="Black"/>
             <Button Text="Ok"
                     WidthRequest="100"
                     BackgroundColor="LightBlue"
-                    Clicked="ClosePopup"/>
+                    Clicked="ClosePopup"
+                    TextColor="Black"/>
         </HorizontalStackLayout>
     </VerticalStackLayout>
 </ContentPage>
